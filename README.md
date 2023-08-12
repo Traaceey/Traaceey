@@ -3,7 +3,6 @@
 🏫 I’m currently *2nd* student at *`The University of Information Technology`*  
 🌻 My major is *`Ecommerce`*
 
-
 <!-- 
 **Traaceey/Traaceey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
